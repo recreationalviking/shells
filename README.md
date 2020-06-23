@@ -1,6 +1,9 @@
 # shells
 various web shells I've made for pentest work
 
+recviking_shell.jsp
+Decent jsp shell. Maintains pseudo history, pseudo path state, and pseudo tab/path completions. This is *NOT* a TTY shell. Functions cross platform Windows and Linux hosts. Windows host not tested, but should work.
+
 recviking_shell.cgi.py
 Decent python cgi shell. Maintains pseudo history, pseudo path state, and pseudo tab/path completions. This is *NOT* a TTY shell. Functions cross platform Windows and Linux hosts. Windows host not tested, but should work.
 
